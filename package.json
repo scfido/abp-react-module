@@ -4,11 +4,15 @@
   "private": true,
   "proxy": "http://localhost:21021/",
   "dependencies": {
+    "abp-web-resources": "^1.3.0",
     "babel-polyfill": "^6.23.0",
     "react": "^15.5.0",
+    "react-addons-css-transition-group": "^15.5.1",
+    "react-addons-transition-group": "^15.5.1",
     "react-dom": "^15.5.0",
     "react-redux": "^5.0.3",
     "react-script": "^2.0.5",
+    "reactstrap": "^4.5.0",
     "redux": "^3.6.0",
     "redux-thunk": "^2.2.0",
     "sw-precache": "^5.1.0"
